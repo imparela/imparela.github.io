@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://imparela.github.io/sitemap.imparela.gz
+Sitemap: https://imparela.github.io/app/sitemap.imparela.gz
+Sitemap: https://imparela.github.io/assets/sitemap.imparela.gz
+Sitemap: https://imparela.github.io/css/sitemap.imparela.gz
+Sitemap: https://imparela.github.io/data/sitemap.imparela.gz
+Sitemap: https://imparela.github.io/includes/sitemap.imparela.gz
+Sitemap: https://imparela.github.io/item/sitemap.imparela.gz
+Sitemap: https://imparela.github.io/src/sitemap.imparela.gz
